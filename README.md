@@ -1,7 +1,7 @@
 # AEtoBlender2.8
 Updated version of Atom's script for migrating After Effects data to Blender. I did not make this script. I merely updated some functions for 2.8.
 
-More updating still needs to be done, but it works on most After Effects layer objects, and most importantly, 3D data.
+More updating still needs to be done, but it works on most After Effects layer objects, and most importantly, 3D Camera Tracking data.
 
 To use, select the layers you want copied into blender in After Effects, go to File->Run Script and choose the script.  This should export a python script.
 
